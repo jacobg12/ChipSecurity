@@ -13,3 +13,11 @@ C:\Users\jacob\Downloads\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.
 C:\Users\jacob\Downloads\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
 C:\Users\jacob\Downloads\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.exe
 C:\Users\jacob\Downloads\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.pdb
+C:\Users\jacob\Source\Repos\ChipSecurity2\bin\Debug\ChipSecuritySystem.exe.config
+C:\Users\jacob\Source\Repos\ChipSecurity2\bin\Debug\ChipSecuritySystem.exe
+C:\Users\jacob\Source\Repos\ChipSecurity2\bin\Debug\ChipSecuritySystem.pdb
+C:\Users\jacob\Source\Repos\ChipSecurity2\obj\Debug\ChipSecuritySystem.csproj.AssemblyReference.cache
+C:\Users\jacob\Source\Repos\ChipSecurity2\obj\Debug\ChipSecuritySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\Source\Repos\ChipSecurity2\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Source\Repos\ChipSecurity2\obj\Debug\ChipSecuritySystem.exe
+C:\Users\jacob\Source\Repos\ChipSecurity2\obj\Debug\ChipSecuritySystem.pdb

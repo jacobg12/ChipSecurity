@@ -16,6 +16,11 @@ namespace ChipSecuritySystem.Factory
                 [Yellow, Red]
                 [Orange, Purple]*/
 
+            if (colors.First().StartColor != Color.Blue && colors.First().EndColor != Color.Yellow)
+                return false;
+            if (colors.Last().StartColor != Color.Red && colors.Last().EndColor != Color.Green)
+                return false;
+
             foreach (var colorChip in colors)
             {
                 switch (colorChip.StartColor)
