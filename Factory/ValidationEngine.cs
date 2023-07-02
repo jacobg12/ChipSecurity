@@ -18,6 +18,10 @@ namespace ChipSecuritySystem.Factory
             if (colors.Last().StartColor != Color.Red && colors.Last().EndColor != Color.Green)
                 return false;
 
+            
+             //The above above conditions result to a Chip Securit System rathern than assuming first ==> Blue && Last ==> Greeen
+             
+
             foreach (var colorChip in colors)
             {
                 switch (colorChip.StartColor)
