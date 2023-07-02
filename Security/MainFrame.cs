@@ -111,7 +111,7 @@ namespace ChipSecuritySystem.Security
         /// <summary>
         /// Core algorithm inducer
         /// </summary>
-        /// <exception cref="ChipListNullOrEmpty"></exception>
+        /// <exception cref="ChipListNullOrEmpty">If per chance no no list exists</exception>
         protected void PerformCheck()
         {
             if (Chips.Count == 0)
