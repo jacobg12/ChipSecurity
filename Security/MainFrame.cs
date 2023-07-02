@@ -42,7 +42,7 @@ namespace ChipSecuritySystem.Security
                 InputChips();
                 PerformCheck();
             }
-            catch (ChipListNullOrEmpty chipListNullorEmpty) //Custom exception check to determine a determined error thrown
+            catch (ChipListNullOrEmpty chipListNullorEmpty) //Custom exception check to determine a pre-determined error thrown
             {
                 Console.WriteLine("No chips are present. Press any key to restart...");
                 Console.ReadKey();
