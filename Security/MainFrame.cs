@@ -80,7 +80,7 @@ namespace ChipSecuritySystem.Security
         /// <summary>
         /// Process the input
         /// </summary>
-        protected void InputChips()
+        protected sealed void InputChips()
         {
             Color startingChip, endingChip;
             var inputString = string.Empty;
