@@ -14,7 +14,7 @@ namespace ChipSecuritySystem.Security
     {
         private List<ColorChip> Chips { get; set; }
         /// <summary>
-        /// Initiaizler, taken from C/C++ tp deconstruct the original default constructor method
+        /// Initiaizler, taken from C/C++ to deconstruct the original default constructor method
         /// </summary>
         private void Initialize()
         {
