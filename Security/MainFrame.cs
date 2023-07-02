@@ -80,7 +80,7 @@ namespace ChipSecuritySystem.Security
         /// <summary>
         /// Process the input
         /// </summary>
-        protected sealed void InputChips()
+        protected void InputChips()
         {
             Color startingChip, endingChip;
             var inputString = string.Empty;
@@ -111,7 +111,7 @@ namespace ChipSecuritySystem.Security
         /// <summary>
         /// Core algorithm inducer
         /// </summary>
-        /// <exception cref="ChipListNullOrEmpty">If per chance no no list exists</exception>
+        /// <exception cref="ChipListNullOrEmpty">If per chance no no</exception>
         protected void PerformCheck()
         {
             if (Chips.Count == 0)
