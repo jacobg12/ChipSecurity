@@ -66,7 +66,7 @@ namespace ChipSecuritySystem.Security
 
             Console.Clear();
 
-            Console.WriteLine("Please enter the contents of your bag, and when finished simply enter a BLANK value for the starting chip.");
+            Console.WriteLine("Please enter the contents of your bag, and when finished simply enter a BLANK(we are assuming you have an end chip) value for the starting chip.");
             Console.WriteLine("Accepted values are as follows:");
 
             foreach (var chip in Enum.GetValues(typeof(Color)))
