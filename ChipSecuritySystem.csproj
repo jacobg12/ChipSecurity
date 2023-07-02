@@ -48,8 +48,10 @@
     <Compile Include="Constants.cs" />
     <Compile Include="CustomExceptions\ChipListNullOrEmpty.cs" />
     <Compile Include="Factory\ValidationEngine.cs" />
+    <Compile Include="Help\ConsoleHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\MainFrame.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
