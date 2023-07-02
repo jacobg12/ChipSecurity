@@ -109,7 +109,7 @@ namespace ChipSecuritySystem.Security
         }
 
         /// <summary>
-        /// Core algorithm
+        /// Core algorithm inducer
         /// </summary>
         /// <exception cref="ChipListNullOrEmpty"></exception>
         protected void PerformCheck()
