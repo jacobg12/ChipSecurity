@@ -19,7 +19,7 @@ namespace ChipSecuritySystem.Factory
                 return false;
 
             
-             //The above above conditions result to a Chip Security System rathern than assuming first ==> Blue && Last ==> Greeen
+             //The above conditions result to a Chip Security System rathern than assuming first ==> Blue && Last ==> Greeen
              
 
             foreach (var colorChip in colors)
