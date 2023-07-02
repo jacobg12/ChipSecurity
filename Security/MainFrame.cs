@@ -48,7 +48,7 @@ namespace ChipSecuritySystem.Security
                 Console.ReadKey();
                 Begin();
             }
-            catch
+            catch //general random unknown exception; would usually log this for tech debt
             {
                 Console.WriteLine("An unknown error has occured. Please report this to your system administrator.\nPress any key to restart...");
                 Console.ReadKey();
