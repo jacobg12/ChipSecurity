@@ -13,10 +13,9 @@ namespace ChipSecuritySystem.Factory
                 [Yellow, Red]
                 [Orange, Purple]*/
 
-            if (colors.First().StartColor != Color.Blue && colors.First().EndColor != Color.Yellow || (colors.Last().StartColor != Color.Red && colors.Last().EndColor != Color.Green))
+            if (colors.First().StartColor != Color.Blue && colors.First().EndColor != Color.Yellow 
+                || (colors.Last().StartColor != Color.Red && colors.Last().EndColor != Color.Green))
                 return false;
-
-
             //The above conditions result to a Chip Security System rathern than assuming first ==> Blue && Last ==> Greeen
 
 
